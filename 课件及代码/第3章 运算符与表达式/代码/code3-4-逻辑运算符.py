@@ -20,3 +20,12 @@ print(not '')
 # 优先级 not>and>or
 print(True and False and not False)
 print(True or False and True or False)
+
+print(True and True)
+print(True | True)
+print(False | True)
+print(False | True)
+if(not True):
+    print("kkk")
+print(0 and '' and 888)
+
