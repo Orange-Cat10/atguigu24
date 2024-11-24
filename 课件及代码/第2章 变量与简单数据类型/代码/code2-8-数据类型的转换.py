@@ -25,7 +25,7 @@ print(float(s2), float(s3))
 
 
 # 转换为布尔bool
-# str-->bool
+# str-->
 s = '0'
 print(bool(s))
 s1 = ''  # 空串

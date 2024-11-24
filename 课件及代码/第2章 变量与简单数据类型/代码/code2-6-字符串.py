@@ -18,10 +18,12 @@ print(s5)
 print('-------字符串拼接-------')
 print(s1 + s4 + s5)
 n = 5
-#print(s1 + n) #注意：字符串与数字不能相加
+print(s1 + str(n)) #注意：字符串与数字不能相加
 
 # 字符串乘法
 print('-----字符串乘法-------')
 print(s1 * 2)
 print('@' * 20)
 print(3 * 'happy')
+
+print("开始了建东".center(20, '*'))

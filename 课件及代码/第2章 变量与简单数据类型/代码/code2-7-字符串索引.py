@@ -16,3 +16,7 @@ print(s2[::3])
 # 字符串反转
 print(s2[-1:-10:-1])
 print(s2[::-1])
+
+print(len(s2))
+print("--".center(62, '-'))
+print("123"[-1:-3:-2])
