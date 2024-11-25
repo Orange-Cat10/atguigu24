@@ -11,3 +11,6 @@ age = 19
 if age >= 18:
     print('可以进网吧')
     print('hello')
+
+if True:
+    print('hello')

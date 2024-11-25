@@ -11,3 +11,6 @@ if age >= 18:
     print('可以去网吧')
 else:
     print('在家写作业吧')
+
+print(1 if False else 2)
+print(1 if True else 2)
