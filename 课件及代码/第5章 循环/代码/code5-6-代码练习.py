@@ -7,9 +7,9 @@
 #     print()
 
 # 打印n行等腰三角形
-# n = 7
-# for i in range(n):
-#     print(' '*(n-1-i) + '*'*(i*2+1))
+n = 7
+for i in range(n):
+    print(' '*(n-1-i) + '*'*(i*2+1))
 
 # 穷举
 peach = 1
