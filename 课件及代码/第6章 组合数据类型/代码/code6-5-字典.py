@@ -22,7 +22,7 @@ print(d)
 # del d
 # print(d)
 # in
-print('name' in d)
+print('name' in d,2456)
 
 # 字典的遍历
 for i in d:

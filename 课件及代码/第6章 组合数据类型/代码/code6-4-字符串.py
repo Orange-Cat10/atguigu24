@@ -1,4 +1,4 @@
-# s1 = 'hello world'
+s1 = 'hello world'
 #
 # # 序列的通用操作
 # print(s1+' mia')
@@ -25,7 +25,7 @@
 # print(str((1,)),type(str(1,)))  #tuple-->str
 #
 # # 常用方法
-# print(s1.islower())
+print(s1.islower())
 # print(s1.isupper())
 # print(s1.count('o'))
 # print(s1.strip())

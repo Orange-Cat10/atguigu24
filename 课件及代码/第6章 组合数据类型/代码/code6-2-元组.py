@@ -63,3 +63,6 @@ for index,value in enumerate(tuple1):
 
 for i in range(len(tuple1)):
     print(i,tuple1[i])
+
+zzzz = (1,1,1)
+print(zzzz)
